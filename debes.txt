@@ -1,3 +1,7 @@
 j78k78k8k87dvsnvojun
 aa
+<<<<<<< HEAD
 hulking
+=======
+ghaly kontol
+>>>>>>> 3144ab665bd162a2a81fb7ca714c2c181b7c2e53
