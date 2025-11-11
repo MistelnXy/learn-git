@@ -1,4 +1,4 @@
-import tkinter as t
+import tkinter as tk
 from tkinter import StringVar
 
 root=tk.Tk()
@@ -29,3 +29,4 @@ tk.Button(root, text="SUBMIT", font=("Arial", 10), command=submit_form).grid(row
 
 
 root.mainloop()
+
