@@ -1,4 +1,4 @@
-import tkinter as tk
+import tkinter as t
 from tkinter import StringVar
 
 root=tk.Tk()
@@ -26,5 +26,6 @@ result_label = tk.Label(root, text="", font=("Arial", 10), fg="green")
 result_label.grid(row=9, column=0, columnspan=2, padx=10, pady=10)
 
 tk.Button(root, text="SUBMIT", font=("Arial", 10), command=submit_form).grid(row=8, column=1, pady=10)
+
 
 root.mainloop()
